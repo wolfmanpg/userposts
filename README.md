@@ -1,11 +1,13 @@
-# usersposts
+# User Posts
+
+You can download the project from this repo and run the following commands to view it
 
 ## Project setup
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compile and view it on the browser 
 ```
 npm run serve
 ```
